@@ -1,6 +1,12 @@
-Description,Guid,IsActive,Name
-,952c705a-2e69-410d-b046-2949f0f87b6c,false,Standard Price Book
-,b136eb19-fd7a-422b-a8fe-8d9f332e9ba2,true,price Book1
-,6c61bfdb-3931-4e8e-bc29-af90f23e86c0,true,Price Book 2
-,5b805b7f-a45d-4e5e-ac8e-0b7cd2db3400,true,Book 1
-,8bf6765c-35c1-4b8d-9d1b-4300746c2fce,true,book1
+"Guid","Description","IsActive","Name"
+5345e5d6-07b2-4480-97e7-9d20c02dac71,"#N/A",false,Standard Price Book
+71d43cfa-a2e8-4086-b664-55e4fc12f160,"#N/A",true,price Book1
+80a74808-a285-49ed-bf6a-43cc367d0773,any desc,true,PriceB1
+8189eebb-ae59-45d4-b089-2d7689a499ed,"#N/A",true,Book 1
+88ba3136-595b-4262-8df3-361fc12f3d7e,"#N/A",true,Standard Price Book
+943921d3-5703-4c44-b5ac-039042482a0a,"#N/A",false,Test3_edit
+a4903a69-6dc7-4595-a50d-a8011a2c990e,"#N/A",false,test
+a89d0205-69dc-4a9d-b404-86bfccd0b9a8,"#N/A",true,book1
+c0f6c45b-5d52-443a-8575-0dcd3572f710,"#N/A",false,Test1_edit
+df4da311-d8c9-40bf-8b91-7b2fc1810484,"#N/A",true,Price Book 2
+fa4f1a5a-1803-4d6f-830c-2399ceb06671,"#N/A",false,test2_edit
